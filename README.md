@@ -4,8 +4,8 @@ FOR ANN SECTION:
 important research papers and links : 
   
 # https://stats.stackexchange.com/questions/154879/a-list-of-cost-functions-used-in-neural-networks-alongside-applications -       differnt type of cost functions!
-# http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf-  backpropagation beginning.
-# https://iamtrask.github.io/2015/07/27/python-network-part2/- gradient descent!
+# http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf -  backpropagation beginning.
+# https://iamtrask.github.io/2015/07/27/python-network-part2/ - gradient descent!
 
 
 Installing Tensorflow/theano/keras provided you are working with anaconda and python 3.5.2!
